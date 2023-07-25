@@ -1,6 +1,5 @@
-import Login from '@/components/Login';
-// import Image from 'next/image';
+import HomePage from '@/page';
 
 export default function Home() {
-  return <Login />;
+  return <HomePage />;
 }
